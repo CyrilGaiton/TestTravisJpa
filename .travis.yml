@@ -2,7 +2,7 @@ language: java
 jdk: oraclejdk8
 deploy:
   provider: bintray
-	file: "travis.settings.xml" 
+	file: "travis.settings.xml"
   user: "cyril"
   key:
     secure: "yyNh4MV08xszmMr3fmiA9LELOZuGq1IZnRX3+W+zbRuSbib9bekjn4Uq/6jvinU/DP6LGl2Mgrcz2iSHyO4Nw43an+OzfpRUN6FrhAhc7i5LJdeTGN3muKp0+1oY5+ZFJh8Qgp/T8jAMGUfgbuweZ7R55BXWUKZRKrX36WyUJeZ4//kk+zEIv9hpGmaYLGWn0eg86OMiSnJR/29JkZGzxVT63i++77ZcuLrtBJFQOOJIRrYuzIXAJDbxSXy1XtoYlzxkQkNXt3LXP+IVxd0kVy1BFLarWvo5Z8Z/FS875Y/U/RSXyWvE3SqiSkoYu3WbCCGjeGzdu1LJfkpCXRc+2ybhWaRgkyS6cjg5aJbS5+DFFWq8RiO7rZ9gZyLyQFhjCPWZlJluX0E89POoPJfDP3YIKjvQJXgMC/2t97XLGlsp6rTWvs46Xk+LfzEG7ZKIlgB3Epa5y7ds1w9kfXuQsDLt0/FByhzXo0+FPP5ogGb9gpJ7IND+YAMdaL8d7c4Zmw73O1TJRSM3MGT29WjdVGgJjmYCHJL/7K9fMVgV0xcUc37kk/D7Xz4I/g/I2T4Ij9YARz6AK3VF0dLdJaFstaXKOjc7XmND2Mzh0yiFnKrSnOMemNlnN1hB9EEA9uqvgy8f8PWdWQnCBkYF3b1/mMkciK3ZuxlU4IIAUZkqFPo="
